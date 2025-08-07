@@ -4,6 +4,8 @@
 
 _Nota bene, anzi nota BENISSIMO! Questa Guida è incentrata sulla costruzione di un CV adatto al mercato del lavoro ITALIANO. Successivamente, l’obiettivo è far crescere il progetto e scrivere guide anche in altre lingue e modificare le indicazioni, adattandole ad altre nazioni e relativi mercati._
 
+Dai anche un'occhiata alla nuova guida di SimonDiff su typography e layout! https://github.com/SimonDiff/devs-cv-typography-guidelines/
+
 
 ## Indice
 
