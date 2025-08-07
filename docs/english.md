@@ -4,7 +4,9 @@
 
 _First of all read this well, VERY WELL! This Guide is focused on building a CV suitable for the ITALIAN job market. Later, the goal is to grow the project and write guides in other languages as well and modify the directions, adapting them to other nations and related markets._
 
-## Indice
+Check out also a new guide made by SimonDiff about typography and layout! https://github.com/SimonDiff/devs-cv-typography-guidelines/
+
+## Table of content
 
 1. [General Info](#1-general-info)
 2. [The photo](#2-the-photo)
