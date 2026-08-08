@@ -35,6 +35,7 @@ Alcune tips utili prima di iniziare:
 - Come vedrai nell’esempio di CV in basso, redatto appositamente per questo progetto (sì, adoro Star Wars, si nota?), il CV dovrebbe essere sintetico ma esaustivo, contenente tutte le keyword necessarie per la posizione per la quale stai applicando
 - Occhio alla lingua nella quale è scritto l’annuncio! Se l’annuncio è scritto in inglese, è sempre meglio inviare il CV in inglese, se in italiano invialo in italiano. Avere due versioni del CV è cosa buona e giusta
 - Consiglio VIVAMENTE di non utilizzare il formato Europass, ormai datato e senza alcuna possibilità di personalizzazione grafica (il CV di esempio l’ho creato su [Canva](https://www.canva.com/), che contiene centinaia di template validi, ma potresti usare anche [LaTeX](https://www.latextemplates.com/) o anche [OverLeaf](https://www.overleaf.com/))
+- Per un controllo preliminare della leggibilità ATS, [CVExpert ATS Health Check](https://cvexpert.com/tools/ats-health-check) è uno strumento gratuito e senza registrazione che analizza il testo incollato nel browser; non sostituisce una prova con un ATS reale e non garantisce il superamento dei filtri.
 
 Ti aggiungo inoltre alcune considerazioni più "personali" sulle quali dovresti riflettere, prendendo spunto da un post di Roberta Zantedeschi, che trovi [QUI](https://www.linkedin.com/posts/robertazantedeschi_cv-curriculum-parolepersonelavoro-activity-7034528956879974400-kGoE?utm_source=share&utm_medium=member_desktop)
 
